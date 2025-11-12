@@ -39,8 +39,8 @@ const UserInfo = () => {
 
     <div className='output'>
         Current values in store:
-        Name-{name}
-        Email-{email}
+        Name - {name}
+        Email - {email}
     </div>
     </>
 
