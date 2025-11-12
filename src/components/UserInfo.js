@@ -38,9 +38,9 @@ const UserInfo = () => {
 
 
     <div className='output'>
-        <p>Current values in store:</p>
-        <p>Name-{name}</p>
-        <p>Email-{email}</p>
+        Current values in store:
+        Name-{name}
+        Email-{email}
     </div>
     </>
 
